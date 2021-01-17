@@ -17,7 +17,7 @@ public class DemoSubproject2 {
 		 System.out.println(""); 
 		 
 		if (fook==null) {
-			fook = new DemoSubproject2();
+			fook = new DemoSubproject2(); 
 		}                       
 		return fook;
 	}
