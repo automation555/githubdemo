@@ -5,7 +5,7 @@ import org.subproject2_A.App;
 public class DemoSubproject2 { 
 
 	int k;
-	App app
+	App app;
 	
 	public static void main(String[] args) {
 		int k_subproject;
@@ -15,7 +15,7 @@ public class DemoSubproject2 {
 
 	public static DemoSubproject2 getFook() { 
 		 System.out.println(""); 
-		 
+		 System.out.println(""); 
 		if (fook==null) {
 			fook = new DemoSubproject2(); 
 		}                       
