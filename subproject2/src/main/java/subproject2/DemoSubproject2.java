@@ -5,7 +5,7 @@ import org.subproject2_A.App;
 public class DemoSubproject2 { 
 
 	int k;
-	App app;
+	App app
 	
 	public static void main(String[] args) {
 		int k_subproject;
