@@ -9,6 +9,7 @@ public class DemoSubproject2 {
 	
 	public static void main(String[] args) {
 		int k_subproject;
+		System.out.println(""); 
 	}
 	
 	private static DemoSubproject2 fook = null;
